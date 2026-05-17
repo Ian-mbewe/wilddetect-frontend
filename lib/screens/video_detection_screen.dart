@@ -3,6 +3,7 @@ import 'package:image_picker/image_picker.dart';
 import 'package:http/http.dart' as http;
 import 'dart:typed_data';
 import 'dart:convert';
+import 'app_drawer.dart';
 
 class VideoDetectionScreen extends StatefulWidget {
   const VideoDetectionScreen({super.key});
@@ -95,6 +96,7 @@ class _VideoDetectionScreenState extends State<VideoDetectionScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      drawer: const AppDrawer(),
       backgroundColor: const Color(0xFFF5F5F5),
       appBar: AppBar(
         title: const Text('Video Detection'),

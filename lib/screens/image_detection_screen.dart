@@ -3,6 +3,7 @@ import 'package:image_picker/image_picker.dart';
 import 'package:http/http.dart' as http;
 import 'dart:typed_data';
 import 'dart:convert';
+import 'app_drawer.dart';
 
 class ImageDetectionScreen extends StatefulWidget {
   const ImageDetectionScreen({super.key});
@@ -96,12 +97,21 @@ class _ImageDetectionScreenState extends State<ImageDetectionScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      drawer: const AppDrawer(),
       backgroundColor: const Color(0xFFF5F5F5),
       appBar: AppBar(
         title: const Text('Image Detection'),
         backgroundColor: Colors.white,
         foregroundColor: Colors.black,
         elevation: 0,
+        leading: Builder(
+  builder: (context) => IconButton(
+    icon: const Icon(Icons.menu, color: Colors.black),
+    onPressed: () {
+      Scaffold.of(context).openDrawer();
+    },
+  ),
+),
         actions: [
           IconButton(
             icon: const Icon(Icons.refresh),
