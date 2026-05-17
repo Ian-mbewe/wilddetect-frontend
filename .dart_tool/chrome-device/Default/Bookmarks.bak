@@ -1,0 +1,117 @@
+{
+   "checksum": "a7d72fc1003fbd5b6a7ca7eccf1426a5",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13323708815505363",
+            "date_last_used": "13407858841056717",
+            "guid": "d57c28ba-ad08-424b-9f40-e6edf3e6e90b",
+            "id": "7",
+            "name": "Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService",
+            "visit_count": 1
+         }, {
+            "date_added": "13323708815507738",
+            "date_last_used": "13393897250988102",
+            "guid": "e5bad6c9-9f21-45f0-bcbd-92eeb5e9c641",
+            "id": "8",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://youtube.com/",
+            "visit_count": 2
+         }, {
+            "date_added": "13336102444420335",
+            "date_last_used": "0",
+            "guid": "9a3cc724-96b9-492f-9856-3c2a887b963f",
+            "id": "9",
+            "name": "Maps",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://maps.google.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13348919296440746",
+            "date_last_used": "13398162791643635",
+            "guid": "36b29a33-8d5f-4400-81e9-d97bfc2c3acb",
+            "id": "10",
+            "name": "User avatar",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://media.classic-gaming.net/avatars/0/2.jpg",
+            "visit_count": 1
+         }, {
+            "date_added": "13395587228331793",
+            "date_last_used": "13404237406279994",
+            "guid": "306ed3f5-77b1-4ec6-aa8c-3641ced6cc67",
+            "id": "11",
+            "name": "Download Driver Updater",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.pchelpsoft.com/en/lp/driver-updater/drivers/?_gl=1*1a3pasc*_up*MQ..*_ga*ODAyMjk2NTU2LjE3NTExMTM1NTg.*_ga_T9M0PYG550*czE3NTExMTM1NTckbzEkZzEkdDE3NTExMTM1ODUkajMyJGwwJGgyMDk4OTQxNTA5",
+            "visit_count": 2
+         }, {
+            "date_added": "13403613058224887",
+            "date_last_used": "0",
+            "guid": "1d4ad051-926d-45d5-9b78-4eb76f2f4994",
+            "id": "12",
+            "name": "MSN",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.msn.com/widgets/fullpage/gaming/widget?experiences=GamingChannel&titleId=&isInGame=1&ocid=gameassist",
+            "visit_count": 1
+         } ],
+         "date_added": "13423408598051518",
+         "date_last_used": "0",
+         "date_modified": "13403613058224887",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13423408598051518",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13423408598051518",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "workspaces_v2": {
+         "children": [  ],
+         "date_added": "13423408598051518",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "75aa6670-344f-549d-b742-660f029506ab",
+         "id": "5",
+         "name": "Workspaces",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCAqsSumaAQAAEgAqGFg3emRNSEh5d2N4UVYzWjBNaVZNL3c9PUgDoAYHEo4BCAMSiQEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJGMwNzgwZjI1LTQ1ZTItNTc5Yi05YjcyLTBjM2RmZDhlYWFmNBgAIAAoADCBycrg1zA4w8vK4NcwQMPLyuDXMEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAADCPgJgABKtAQgMEqgBChxYaFc4MFpLMUlNelNJVW9hT3dOS2JmYldzR3M9EiQxZDRhZDA1MS05MjZkLTQ1ZDUtOWI3OC00ZWI3NmYyZjQ5OTQYACAAKAAwidiqyq4zOIiHk6iZM0CIh5OomTNKHFFiVTVCOWFHN21XbDVJZWZsQ3FNQWt3UkxwVT1aHyId+lRxWDVZaXdlR2tGMkFXL1FYUzBFUVB6SWg4ND1l9RkyxMI+AmAFEq0BCAsSqAEKHFpjbzNJT09wK2FLQlBFOGd5UEJ4dU9aSzRXND0SJDMwNmVkM2Y1LTc3YjEtNGVjNi1hYThjLTM2NDFjZWQ2Y2M2NxgAIAAoADCtpsXhqDM4t6P4hP0yQLej+IT9MkocSnVIY2EwM2J0N2E3Y1BVYVZjd3NuWnpNc1JJPVofIh31MGl4VGZUUHR4TldLajVCMDhsSTE5dHVBWmc4PWUAAAAAwj4CYAUSrQEIChKoAQocN3ZkNHFYc0VBbGFoMGhiM0huWWhzVDZ3Qmg0PRIkMzZiMjlhMzMtOGQ1Zi00NDAwLTgxZTktZDk3YmZjMmMzYWNiGAAgACgAMKumxeGoMzjNqJziyjJAzaic4soyShxCaDVDYWhBcitRRExaNWNoSUpYWEhjVGllTHM9Wh8iHeo2b0NKRDNnZ3RZRk1UOE1yYnJtbzZpTnNzQXM9ZQAAAADCPgJgBRKtAQgJEqgBChx2R2doK0EydEtteGJtNWpOcGd5NmxBbDJFeVU9EiQ5YTNjYzcyNC05NmI5LTQ5MmYtOTg1Ni0zYzJhODg3Yjk2M2YYACAAKAAwh4yT2qszONrqlaimMUDa6pWopjFKHHZyVmZYU09YSWllaEJlTW9HUWJNWFNMSng5az1aHyId1TNGWDV4bGYxNmZPZW9la0loTFhuRWU3dVc4MD1l91wVQcI+AmAFEo4BCAUSiQEKHHdSQnJaTCs2UEE5YXZLZ2pOUDdKWERMY2Z2cz0SJDYwMzg2Y2E4LTNkNDYtNTUzNC1hNzBjLTk3NDI2NjEwYzM2MRgAIAAoADCf9K7NpDM4mfeuzaQzQJn3rs2kM0ocbm14NjVzUUR2eEk4VGdFZXYrQStudHRvU240PVoAZQAAAADCPgJgABKsAQgHEqcBChxtQmo5WVMwcW9jZEpUL2ZEWm9Tc2dKTDZJUHc9EiRkNTdjMjhiYS1hZDA4LTQyNGItOWY0MC1lNmVkZjNlNmU5MGIYACAAKAAwr5DOj6kzOMLqlaimMUDC6pWopjFKHEEvdDg5UHo3UEI0WlUya3VBbFRmalJyQ3dRYz1aHiIcV2FTaVpuUVZNeFZVWjloeDVDSjQvS3lmNHRZPWUAAAAAwj4CYAUSrQEICBKoAQocN1FmSEtNeVJ5clZtYzVlT3ppaXE4V04xVkhzPRIkZTViYWQ2YzktOWYyMS00NWYwLWJjYmQtOTJlZWI1ZTljNjQxGAAgACgAMKCd+IT9Mjim6pWopjFApuqVqKYxShxKS2IwTEZqdHFxaXkwSVF4UEFoRk5Vd011QVE9Wh8iHatOS2pQUnpGcVJ3L1JxTXJCK2pzYVgraUZaTDA9ZQAAAADCPgJgBRKOAQgBEokBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiRmZDg0MDhjNC01MjNhLTU2NzYtOGRmNS1kYzJlOWZhY2ZiNWEYACAAKAAw+8jK4NcwOKbKyuDXMECmysrg1zBKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAwj4CYAASjgEIAhKJAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkNmFmZTY1MjUtNTBhZC01YWRlLTg3ZDUtNjEyZjE4OGJkMTVjGAAgACgAMPzIyuDXMDjGysrg1zBAxsrK4NcwShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAAMI+AmAAMAA4AA==",
+   "version": 1
+}
